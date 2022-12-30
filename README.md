@@ -5,7 +5,9 @@
 SHAOWN-001 is an atom with the following quantum numbers:
 
 l: Ranges from n to 0
+
 m: Ranges from -(l+1) to +(l+1)
+
 s: 0 or ±1/2
 
 `The goal of this project is to calculate the electron number in the nth shell of SHAOWN-001 atom using these quantum numbers.`
